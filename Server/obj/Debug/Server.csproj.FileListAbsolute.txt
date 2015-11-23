@@ -1,0 +1,77 @@
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Server\bin\Debug\Server.exe
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Server\bin\Debug\Server.pdb
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Server\obj\Debug\ResolveAssemblyReference.cache
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Server\obj\Debug\Server.Properties.Resources.resources
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Server\obj\Debug\Server.exe
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Server\obj\Debug\Server.pdb
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Server\obj\Debug\Server.Server.resources
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Server\obj\Debug\Server.ServerFrm.resources
+C:\Users\Dipendra\Desktop\IBO\Server\obj\Debug\Server.exe
+C:\Users\Dipendra\Desktop\IBO\Server\obj\Debug\Server.pdb
+C:\Users\Dipendra\Desktop\IBO\Server\bin\Debug\Server.exe
+C:\Users\Dipendra\Desktop\IBO\Server\bin\Debug\Server.pdb
+C:\Users\Dipendra\Desktop\IBO\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipendra\Desktop\IBO\Server\obj\Debug\Server.Server.resources
+C:\Users\Dipendra\Desktop\IBO\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Dipendra\Desktop\IBO\Server\obj\Debug\Server.ServerFrm.resources
+C:\Users\Dipendra\Desktop\IBO\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Dipendra\Desktop\MProgramming\Server\obj\Debug\Server.exe
+C:\Users\Dipendra\Desktop\MProgramming\Server\obj\Debug\Server.pdb
+I:\movies\MProgramming\Server\obj\Debug\Server.exe
+I:\movies\MProgramming\Server\obj\Debug\Server.pdb
+I:\STUDY\8th sem\Major Project\Program\MProgramming\Server\obj\Debug\Server.exe
+I:\STUDY\8th sem\Major Project\Program\MProgramming\Server\obj\Debug\Server.pdb
+I:\STUDY\8th sem\Major Project\Program\MProgramming\Server\bin\Debug\Server.exe
+I:\STUDY\8th sem\Major Project\Program\MProgramming\Server\bin\Debug\Server.pdb
+I:\STUDY\8th sem\Major Project\Program\MProgramming\Server\obj\Debug\ResolveAssemblyReference.cache
+I:\STUDY\8th sem\Major Project\Program\MProgramming\Server\obj\Debug\Server.Server.resources
+I:\STUDY\8th sem\Major Project\Program\MProgramming\Server\obj\Debug\Server.Properties.Resources.resources
+I:\STUDY\8th sem\Major Project\Program\MProgramming\Server\obj\Debug\Server.ServerFrm.resources
+I:\STUDY\8th sem\Major Project\Program\MProgramming\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+I:\STUDY\8th sem\Major Project\Program\Practice\IBOwithThread\Server\obj\Debug\ResolveAssemblyReference.cache
+I:\STUDY\8th sem\Major Project\Program\Practice\IBOwithThread\Server\obj\Debug\Server.Properties.Resources.resources
+I:\STUDY\8th sem\Major Project\Program\Practice\IBOwithThread\Server\obj\Debug\Server.ServerFrm.resources
+I:\STUDY\8th sem\Major Project\Program\Practice\IBOwithThread\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+I:\STUDY\8th sem\Major Project\Program\Practice\IBOwithThread\Server\obj\Debug\Server.exe
+I:\STUDY\8th sem\Major Project\Program\Practice\IBOwithThread\Server\bin\Debug\Server.exe
+I:\STUDY\8th sem\Major Project\Program\Practice\IBOwithThread\Server\bin\Debug\Server.pdb
+I:\STUDY\8th sem\Major Project\Program\Practice\IBOwithThread\Server\obj\Debug\Server.pdb
+I:\STUDY\8th sem\Major Project\Program\Practice\ImBaOp\Server\obj\Debug\Server.exe
+I:\STUDY\8th sem\Major Project\Program\Practice\ImBaOp\Server\obj\Debug\Server.pdb
+I:\STUDY\8th sem\Major Project\Program\Practice\ImBaOp\Server\bin\Debug\Server.exe
+I:\STUDY\8th sem\Major Project\Program\Practice\ImBaOp\Server\bin\Debug\Server.pdb
+I:\STUDY\8th sem\Major Project\Program\Practice\ImBaOp\Server\obj\Debug\ResolveAssemblyReference.cache
+I:\STUDY\8th sem\Major Project\Program\Practice\ImBaOp\Server\obj\Debug\Server.Properties.Resources.resources
+I:\STUDY\8th sem\Major Project\Program\Practice\ImBaOp\Server\obj\Debug\Server.ServerFrm.resources
+I:\STUDY\8th sem\Major Project\Program\Practice\ImBaOp\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+I:\STUDY\8th sem\Major Project\Program\Practice\Backup\ImBaOp\Server\obj\Debug\Server.exe
+I:\STUDY\8th sem\Major Project\Program\Practice\Backup\ImBaOp\Server\obj\Debug\Server.pdb
+I:\STUDY\8th sem\Major Project\Program\Practice\Backup\ImBaOp\Server\bin\Debug\Server.exe
+I:\STUDY\8th sem\Major Project\Program\Practice\Backup\ImBaOp\Server\bin\Debug\Server.pdb
+I:\STUDY\8th sem\Major Project\Program\Practice\Backup\ImBaOp\Server\obj\Debug\ResolveAssemblyReference.cache
+I:\STUDY\8th sem\Major Project\Program\Practice\Backup\ImBaOp\Server\obj\Debug\Server.Properties.Resources.resources
+I:\STUDY\8th sem\Major Project\Program\Practice\Backup\ImBaOp\Server\obj\Debug\Server.ServerFrm.resources
+I:\STUDY\8th sem\Major Project\Program\Practice\Backup\ImBaOp\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\ImBaOp\Server\obj\Debug\Server.exe
+D:\ImBaOp\Server\obj\Debug\Server.pdb
+C:\Users\Dipendra\Desktop\ImBaOpAl\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipendra\Desktop\ImBaOpAl\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Dipendra\Desktop\ImBaOpAl\Server\obj\Debug\Server.ServerFrm.resources
+C:\Users\Dipendra\Desktop\ImBaOpAl\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Dipendra\Desktop\ImBaOpAl\Server\obj\Debug\Server.exe
+C:\Users\Dipendra\Desktop\ImBaOpAl\Server\bin\Debug\Server.exe
+C:\Users\Dipendra\Desktop\ImBaOpAl\Server\bin\Debug\Server.pdb
+C:\Users\Dipendra\Desktop\ImBaOpAl\Server\obj\Debug\Server.pdb
+C:\Users\PRAKASH\Desktop\ImBaOpAl\Server\obj\Debug\Server.exe
+C:\Users\PRAKASH\Desktop\ImBaOpAl\Server\obj\Debug\Server.pdb
+C:\Users\Dipendra\Desktop\ImBaOpAT\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipendra\Desktop\ImBaOpAT\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Dipendra\Desktop\ImBaOpAT\Server\obj\Debug\Server.ServerFrm.resources
+C:\Users\Dipendra\Desktop\ImBaOpAT\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Dipendra\Desktop\ImBaOpAT\Server\obj\Debug\Server.exe
+C:\Users\Dipendra\Desktop\ImBaOpAT\Server\obj\Debug\Server.pdb
+C:\Users\Dipendra\Desktop\ImBaOpAT\Server\bin\Debug\Server.exe
+C:\Users\Dipendra\Desktop\ImBaOpAT\Server\bin\Debug\Server.pdb
+C:\Users\Dipendra\Desktop\Project\ImBaOpAT\Server\obj\Debug\Server.exe
+C:\Users\Dipendra\Desktop\Project\ImBaOpAT\Server\obj\Debug\Server.pdb

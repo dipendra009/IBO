@@ -1,0 +1,24 @@
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Client\bin\Debug\Client.exe
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Client\bin\Debug\Client.pdb
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Client\obj\Debug\ResolveAssemblyReference.cache
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Client\obj\Debug\Client.Properties.Resources.resources
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Client\obj\Debug\Client.exe
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Client\obj\Debug\Client.pdb
+I:\STUDY\8th sem\Major Project\Program\Practice\IBO\Client\obj\Debug\Client.ClientForm.resources
+C:\Users\Dipendra\Desktop\MP\Programming\IBO\Client\obj\Debug\Client.exe
+C:\Users\Dipendra\Desktop\MP\Programming\IBO\Client\obj\Debug\Client.pdb
+C:\Users\Dipendra\Desktop\MP\Programming\IBO\Client\bin\Debug\Client.exe
+C:\Users\Dipendra\Desktop\MP\Programming\IBO\Client\bin\Debug\Client.pdb
+C:\Users\Dipendra\Desktop\MP\Programming\IBO\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dipendra\Desktop\MP\Programming\IBO\Client\obj\Debug\Client.ClientForm.resources
+C:\Users\Dipendra\Desktop\MP\Programming\IBO\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Dipendra\Desktop\MP\Programming\IBO\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Major Project\Programming\IBO\Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Major Project\Programming\IBO\Client\obj\Debug\Client.ClientForm.resources
+D:\Major Project\Programming\IBO\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Major Project\Programming\IBO\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Major Project\Programming\IBO\Client\obj\Debug\Client.exe
+D:\Major Project\Programming\IBO\Client\obj\Debug\Client.pdb
+D:\Major Project\Programming\IBO\Client\bin\Debug\Client.exe
+D:\Major Project\Programming\IBO\Client\bin\Debug\Client.pdb
